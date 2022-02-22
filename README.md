@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prathamesh Gogawale
-- 👀 I’m interested in Full Stack Development with `Python`, `Django`, `React`
+- 👀 I’m interested in Full Stack Development with `Python`, `Django`, `React`, `Flask`
 - 🌱 I’m currently working on Web Development with the Tech Stack of Python, Flask, Django, React, Javascript, HTML-CSS
 - 💞️ I’m a full stack developer, constantly improving my skills and learning something new daily. 
 - 📫 
